@@ -61,7 +61,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
         </h3>
         <div class="mb-6">
           <h4 class="font-medium">Celular</h4>
-          <p class="text-gray-500 text-sm">943 744 245</p>
+          <p class="text-gray-500 text-sm">943 744 243</p>
         </div>
         <div class="mb-6">
           <h4 class="font-medium">Email</h4>
