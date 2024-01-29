@@ -41,7 +41,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
         </h3>
         <div class="mb-6">
           <p class="text-gray-500 text-sm">2017 - 2023</p>
-          <h4 class="font-medium">Ingeniero de Sistemas e Informatica</h4>
+          <h4 class="font-medium">Ingeniero de Sistemas e Informática</h4>
           <p class="text-gray-500 text-sm">
             Universidad Continental
           </p>
