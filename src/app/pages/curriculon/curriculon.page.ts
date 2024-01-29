@@ -61,7 +61,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
         </h3>
         <div class="mb-6">
           <h4 class="font-medium">Celular</h4>
-          <p class="text-gray-500 text-sm">+52 614 1 00 00 00</p>
+          <p class="text-gray-500 text-sm">943 744 245</p>
         </div>
         <div class="mb-6">
           <h4 class="font-medium">Email</h4>
@@ -144,7 +144,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
                         <circle cx="12" cy="12" r="10"></circle>
                     </g>
                 </svg>
-                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" class="opacity-[.2]" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24"  height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                     <g>
                         <path fill="none" d="M0 0h24v24H0z"></path>
                         <circle cx="12" cy="12" r="10"></circle>
