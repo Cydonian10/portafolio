@@ -21,7 +21,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
       <div>
         <h1 class="text-5xl md:text-7xl">Gabriel</h1>
         <h1 class="text-5xl md:text-7xl font-bold">Vásquez</h1>
-        <p class="md:text-2xl text-gray-500">Ingeniero de sistemas e informatica</p>
+        <p class="md:text-2xl text-gray-500">Ingeniero de sistemas e informática</p>
       </div>
       <h3 class="relative text-xl font-semibold py-4 tracking-[4px] before:absolute before:w-10 before:h-[2px] before:bg-gray-900 before:left-0 before:bottom-0 mb-2">
         Perfil
